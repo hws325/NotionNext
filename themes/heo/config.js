@@ -4,7 +4,7 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2025-12-30', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -13,9 +13,9 @@ const CONFIG = {
   ],
 
   // 英雄区左右侧组件颠倒位置
-  HEO_HERO_REVERSE: false,
+  HEO_HERO_REVERSE: true,
   // 博客主体区左右侧组件颠倒位置
-  HEO_HERO_BODY_REVERSE: false,
+  HEO_HERO_BODY_REVERSE: true,
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '窥探AI',
